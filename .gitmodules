@@ -1,0 +1,3 @@
+[submodule "volumes/jwt-auth"]
+	path = volumes/jwt-auth
+	url = git@github.com:usefulteam/jwt-auth.git
