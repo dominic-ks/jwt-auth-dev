@@ -1,0 +1,21 @@
+{
+  "autokill": true,
+  "autorun": false,
+  "terminals": [
+    {
+      "cwd": "./",
+      "name": "docker-compose up",
+      "command": "docker-compose up"
+    },
+    {
+      "cwd": "./",
+      "name": "docker cli",
+      "command": "git status"
+    },
+    {
+      "cwd": "./volumes/jwt-auth",
+      "name": "jwt plugin",
+      "command": "git status"
+    }
+  ]
+}
